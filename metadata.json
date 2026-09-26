@@ -1,0 +1,6 @@
+{
+  "name": "KavyaPro Auth - Web Authentication & User Hub",
+  "description": "Secure login, registration, and user profile management web application powered by Firebase Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
